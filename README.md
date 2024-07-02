@@ -1,12 +1,16 @@
-- 👋 Hi, I’m @nnavrrete
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hola, soy Nicolas Navarrete 👋
 
-<!---
-nnavrrete/nnavrrete is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🛠 Tecnologías y Herramientas
+
+- **Lenguajes de Programación:** Python, JavaScript, C, C++
+- **Desarrollo Web:** HTML, CSS, React, Node.js
+- **Bases de Datos:** PostgreSQL, SQLServer, MongoDB
+- **Herramientas y Plataformas:** Git, Docker, GCP
+
+## 📈 Estadísticas de GitHub
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=nnavrrete&show_icons=true&theme=radical)
+
+## 📫 Cómo Contactarme
+
+- **Correo Electrónico:** nnavarrete@utem.cl
